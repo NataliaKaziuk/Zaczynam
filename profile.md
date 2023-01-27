@@ -1,1 +1,1 @@
-Hmm. Dziwne ;)
+A w drugą stronę?
