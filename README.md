@@ -59,9 +59,6 @@ _Welcome to "Introduction to GitHub"! :wave:_
 
 **What is a branch?**
 
-On additional branches, you can make edits without impacting the `main` version. Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute.
-<br>:tv: [Video: Branches](https://www.youtube.com/watch?v=xgQmu81G1yY)
-
 **What is a profile README?**: A [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page.
 
 ### :keyboard: Activity: Your first branch
