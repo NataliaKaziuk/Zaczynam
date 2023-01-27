@@ -1,1 +1,1 @@
-Witaj ponownie?
+Hmm. Dziwne ;)
