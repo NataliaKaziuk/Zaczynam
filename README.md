@@ -65,15 +65,8 @@ _Welcome to "Introduction to GitHub"! :wave:_
 
 </details>
 
-<!-- 
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
-
 <details id=2>
 <summary><h2>Step 2: Commit a file</h2></summary>
-
 
 **What is a commit?**
 
@@ -81,20 +74,10 @@ _Welcome to "Introduction to GitHub"! :wave:_
 
 </details>
 
-<!-- 
-  <<< Author notes: Step 3 >>> 
-  Just a historic note: the previous version of this step forced the learner
-  to write a pull request description,
-  checked that `main` was the receiving branch,
-  and that the file was named correctly.
--->
 
 <details id=3>
 <summary><h2>Step 3: Open a pull request</h2></summary>
 
-_Nice work making that commit :sparkles:_
-
-Now that you’ve created a commit, it’s time to share your proposed change through a pull request!
 
 **What is a pull request?**: Collaboration happens on a pull request. The pull request shows the changes in your branch to other people. This pull request is going to keep the changes you just made on your branch and propose applying them to the `main` branch.
 <br>:tv: [Video: Introduction to pull requests](https://youtu.be/kJr-PIfLDl4)
