@@ -1,1 +1,1 @@
-Co teraz? :)
+Hmm. Dziwne ;)
